@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Vite
 - Deploy no Netlify
+- -Rollup Plugin (compilar Sass)
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/09220779-e95f-4ad7-9fe6-7104c8cb5d94/deploy-status)](https://app.netlify.com/sites/thiagofontanella/deploys)
 
